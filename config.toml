@@ -1,4 +1,4 @@
-baseURL = "http://127.0.0.1:1313/"
+baseURL = "https://testwebgo.herokuapp.com/"
 languageCode = "en-us"
 title = "trabajo 2019"
 theme = "ananke"
