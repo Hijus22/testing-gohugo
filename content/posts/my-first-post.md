@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2018-12-26T11:54:15+01:00
-draft: true
+draft: false
 ---
 
 # Dillinger
